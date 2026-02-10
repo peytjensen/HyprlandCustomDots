@@ -1,0 +1,16 @@
+[34m[INFO](B[m Starting repository update...
+[34m[INFO](B[m Checking working tree...
+[33m[NOTE](B[m No local changes; no stash created.
+[34m[INFO](B[m Pulling latest changes...
+Already up to date.
+[32m[OK](B[m Repository updated successfully.
+----------------------------------------
+Summary:
+  Repo        : /home/peyt/Hyprland-Dots
+  HEAD before : b168a304
+  HEAD after  : b168a304
+  Stash       : No local changes; no stash created.
+  Pull status : success
+----------------------------------------
+[34m[INFO](B[m Checking for duplicate UserConfigs entries after repo update (detected v2.3.16)...
+[34m[INFO](B[m Running UserConfigs duplicate cleanup for detected version v2.3.16 (<= 2.3.19).

@@ -1,0 +1,46 @@
+./copy.sh: line 287: xdg-user-dirs-update: command not found
+[34m[INFO](B[m Selected workflow: upgrade
+[34m[INFO](B[m Upgrade mode enabled.
+[34m[INFO](B[m Nvidia GPU detected. Setting up proper env's and configs
+[33m[NOTE](B[m kb_layout [35mus(B[m configured in settings.
+[34m[INFO](B[m Added KeybindsLayoutInit.sh to user Startup_Apps overlay
+[32m[OK](B[m You have chosen ≥ 1440p resolution.
+[32m[OK](B[m 12H format set on waybar clocks succesfully.
+[33m[NOTE](B[m Express mode requires installed dotfiles v2.3.18 or newer. Continuing with standard upgrade prompts.
+[33m[NOTE](B[m - Backed up fastfetch to /home/peyt/.config/fastfetch-backup-back-up_0209_1819.
+[32m[OK](B[m - Replaced fastfetch with new configuration.
+[33m[NOTE](B[m - Backed up kitty to /home/peyt/.config/kitty-backup-back-up_0209_1819.
+[32m[OK](B[m - Replaced kitty with new configuration.
+[33m[NOTE](B[m - Backed up rofi to /home/peyt/.config/rofi-backup-back-up_0209_1819.
+[32m[OK](B[m - Replaced rofi with new configuration.
+[33m[NOTE](B[m - Backed up swaync to /home/peyt/.config/swaync-backup-back-up_0209_1819.
+[32m[OK](B[m - Replaced swaync with new configuration.
+[33m[NOTE](B[m - Skipping [33mwaybar(B[m config replacement.
+[32m[OK](B[m - Copy of config for [33mbtop(B[m completed!
+[32m[OK](B[m - Copy of config for [33mcava(B[m completed!
+[32m[OK](B[m - Copy of config for [33mhypr(B[m completed!
+[32m[OK](B[m - Copy of config for [33mKvantum(B[m completed!
+[32m[OK](B[m - Copy of config for [33mqt5ct(B[m completed!
+[32m[OK](B[m - Copy of config for [33mqt6ct(B[m completed!
+[32m[OK](B[m - Copy of config for [33mswappy(B[m completed!
+[32m[OK](B[m - Copy of config for [33mwallust(B[m completed!
+[32m[OK](B[m - Copy of config for [33mwlogout(B[m completed!
+[32m[OK](B[m - Restored directory: [35mMonitor_Profiles(B[m
+[32m[OK](B[m - Restored directory: [35manimations(B[m
+[32m[OK](B[m - Restored directory: [35mwallpaper_effects(B[m
+[32m[OK](B[m - Restored file: [35mmonitors.conf(B[m
+[32m[OK](B[m - Restored file: [35mworkspaces.conf(B[m
+[33m[NOTE](B[m Restoring previous [35mUser-Configs(B[m... 
+[33m[NOTE](B[m Restoring UserConfigs directory...
+[32m[OK](B[m - UserConfigs directory restored.
+[34m[INFO](B[m Skipping UserConfigs duplicate cleanup for detected version v2.3.20 (>= 2.3.20).
+[33m[NOTE](B[m Restoring previous [35mUser-Scripts(B[m...
+[32m[OK](B[m - RofiBeats.sh restored!
+[32m[OK](B[m - Weather.py restored!
+[32m[OK](B[m - Weather.sh restored!
+[33m[NOTE](B[m Restoring some files in [35m/home/peyt/.config/hypr directory(B[m...
+[32m[OK](B[m - hyprlock.conf restored!
+[32m[OK](B[m - hypridle.conf restored!
+[32m[OK](B[m Some [35mwallpapers(B[m copied successfully!
+[33m[NOTE](B[m You chose not to download additional wallpapers.
+./copy.sh: line 647: wallust: command not found

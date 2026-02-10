@@ -1,0 +1,17 @@
+./copy.sh: line 79: xdg-user-dirs-update: command not found
+[34m[INFO](B[m Nvidia GPU detected. Setting up proper env's and configs
+[33m[NOTE](B[m kb_layout [35mus(B[m configured in settings.
+[32m[OK](B[m You have chosen ≥ 1440p resolution.
+[32m[OK](B[m 12H format set on waybar clocks succesfully.
+[33m[NOTE](B[m No changes made. Rainbow borders remain enabled.
+[32m[OK](B[m - Copy completed for [33mfastfetch(B[m
+[33m[NOTE](B[m - Backed up kitty to /home/peyt/.config/kitty-backup-back-up_0925_2327.
+[32m[OK](B[m - Replaced kitty with new configuration.
+[33m[NOTE](B[m - Backed up rofi to /home/peyt/.config/rofi-backup-back-up_0925_2327.
+[32m[OK](B[m - Replaced rofi with new configuration.
+[32m[OK](B[m - Copy completed for [33mswaync(B[m
+[32m[OK](B[m - Copy completed for [33mwaybar(B[m
+[32m[OK](B[m Some [35mwallpapers(B[m copied successfully!
+[32m[OK](B[m Wallpapers downloaded successfully.
+[32m[OK](B[m Wallpapers copied successfully.
+./copy.sh: line 1118: wallust: command not found
