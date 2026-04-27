@@ -1,6 +1,14 @@
-WARP.md 
-.warp.md 
+WARP.md
+.warp.md
 result
+
+# Hyprland runtime / generated files
+Copy-Logs/
+Upgrade-Logs/
+Wallpaper-Bank/
+config/hypr/.initial_startup_done
+config/hypr/wallpaper_effects/.wallpaper_current
+config/hypr/wallust/wallust-hyprland.conf
 
 # Python artifacts
 __pycache__/
