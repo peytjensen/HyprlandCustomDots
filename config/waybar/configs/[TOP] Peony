@@ -5,7 +5,7 @@
 //* --- 👍 designed by https://github.com/Krautt  👍 --- */
 
 {
- 
+
 "include": [
   "$HOME/.config/waybar/Modules",
   "$HOME/.config/waybar/ModulesWorkspaces",
@@ -13,6 +13,9 @@
   "$HOME/.config/waybar/ModulesGroups",
   "$HOME/.config/waybar/UserModules",
   ],
+// Show on ViewSonic XG (DP-3) + laptop (eDP-1) only. MSI Optix
+// (HDMI-A-1) is excluded, so no waybar renders on that monitor.
+"output": ["DP-3", "eDP-1"],
 "layer": "top",
 //"mode": "dock",
 "exclusive": true,
@@ -24,16 +27,16 @@
 "margin-top": 5,
 //"margin-bottom": 5,
 "width": 1444,
-	
+
 "modules-left": [
-	"hyprland/workspaces#roman", 
-	"mpris", 
-	"group/notify", 
+	"hyprland/workspaces#roman",
+	"mpris",
+	"group/notify",
 	"tray"
 	],
-  
-"modules-center": ["clock#4"], 
-	
+
+"modules-center": ["clock#4"],
+
 "modules-right": [
 	"battery",
 	"custom/separator#blank",
@@ -43,8 +46,7 @@
 	"custom/separator#blank",
 	"temperature",
 	"custom/separator#blank",
-	"group/mobo_drawer",	
-	"network",
-	"custom/nightlight"],
+	"group/mobo_drawer",
+	"network"],
 
-}	
+}
